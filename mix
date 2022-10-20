@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <ul>
+            <li>1. naver? </li>
+            <li>2. google?</li>
+        </ul>
+
+    </head>
+    <body>
+        <h1>WEB</h1>
+        <ol>
+            <li><u>HTML</u></li>
+            <li>CSS</li>
+            <li><u>js script</u></li>
+
+        </ol>
+
+        <p>What is naver?<br><a href="https://www.naver.com" target="_blank" title="naver.com">
+            NAVER</a></p>
+    </body>
+</html>
